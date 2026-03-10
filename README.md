@@ -19,3 +19,5 @@ Transportation data is complex and large-scale. This project demonstrates how ma
 Dataset : https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 Metadata : https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
+Live Demo : https://new-york-taxi-analysis-mvdwweezihtuj7jn4i2qcr.streamlit.app/
